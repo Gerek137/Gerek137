@@ -1,5 +1,5 @@
 <div>
-<img align='left' src='https://c.tenor.com/f7P9Hg-p_uoAAAAi/minecraft-grass.gif' width='20%'>
+<img align='left' src='avata2.gif' width='20%'>
 
 # Gerek's
 ## ☕ Developer **Java**
