@@ -16,17 +16,6 @@ Me profissionalizando como desenvolvedor Software & Web!
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
 </div>
 
-<br/>
-
-##
-
-<br/>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerek137&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerek137&layout=normal&langs_count=16&theme=dark"/>
-</div>
-
 ##
 
 <div>
