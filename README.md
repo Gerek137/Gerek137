@@ -1,5 +1,5 @@
 <div>
-<img align='left' src='avata2.gif'>
+<img align='left' src='avata2.gif' width='30%'>
 
 # Gerek's
 ## ☕ Developer **Java**
